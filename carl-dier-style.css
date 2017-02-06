@@ -10,6 +10,8 @@ a {
 body {
 	width: 500px;
 	text-align: center;
+	margin-top: 25px;
+	margin-left: 5%
 }
 
 .mini-titles {
