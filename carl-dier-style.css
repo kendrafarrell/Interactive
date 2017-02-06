@@ -8,5 +8,6 @@ a {
 }
 
 p {
+	position: center;
 	width: 500px;
 }
