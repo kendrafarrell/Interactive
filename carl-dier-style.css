@@ -10,6 +10,8 @@ a {
 body {
 	width: 500px;
 	text-align: center;
-
 }
 
+.mini-titles {
+	list-style-type: none;
+}
