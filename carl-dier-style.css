@@ -1,8 +1,7 @@
-/*.mini-titless:hover {
-	background-color: yellow;
-
+a:hover {
+	background-color: green;
 }
-*/
+
 p {
 	width: 500px;
 }
